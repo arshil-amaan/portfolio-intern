@@ -5160,8 +5160,12 @@ a img {
 }
 .sign-up-placeholder::placeholder{
     color: #ffffff;
-    
 }
+.Sign-up-btn{
+        color: #ffffff;
+        border-color: #fff;
+
+    }
 @media only screen and (max-width:700px){
     .News-letter-sign-up{
         position: relative;
